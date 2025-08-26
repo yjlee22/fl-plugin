@@ -2,7 +2,7 @@
 
 This is an official implementation of the following paper:
 > Youngjoon Lee, Jinu Gong, and Joonhyuk Kang.
-**[Embedding Byzantine Fault Tolerance into Federated Learning via Consistency Scoring]**  
+**[Embedding Byzantine Fault Tolerance into Federated Learning via Consistency Scoring](https://arxiv.org/abs/2411.10212)**  
 _IEEE GLOBECOM 2025 (Accepted)_.
 
 ## Docker Image
